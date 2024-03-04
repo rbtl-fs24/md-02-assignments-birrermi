@@ -11,6 +11,11 @@ editor_options:
   chunk_output_type: console
 ---
 
+```{r}
+library(usethis)
+use_git_config(user.name = "birrermi", user.email = "birrermi@student.ethz.ch")
+```
+
 ## Task 1: Import
 
 The required packages for this homework exercise have already been added.
